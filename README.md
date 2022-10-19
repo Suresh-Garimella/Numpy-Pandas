@@ -1,3 +1,10 @@
+
+Student name:- Garimella Suresh Babu
+Network_Id:- 700741367
+UserId:- sxg13670@ucmo.edu
+
+Note:- we have other file names ML_Assignment2.docx which contains all the code details with screen shots. 
+
 # Numpy-Pandas
 This repos give the basic understanding of numpy and pandas library in python
 
